@@ -1,0 +1,135 @@
+body{
+    background-color:#ffffff;
+text-align: center;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.day1 {
+    width: 600px;
+    height: 1580px;
+    border: auto rgb(0, 0, 0);
+    background-color: rgb(49, 49, 49);
+    border-style: solid;
+    margin: auto;
+    outline-width: 50px;
+}
+
+.outline {
+    width: 50%;
+    height: 1500px;
+    outline-width: 50px;
+   border: auto rgb(0, 0, 0);
+    border-style: solid;
+    border-left: #ffffff;
+    background-color: rgb(255, 255, 255);
+   margin-left: 0%;
+   float: left;
+}
+.outlineright {
+    width: 49%;
+    height: 1400px;
+    background-color: rgb(49, 49, 49);
+    outline-width: 50px;
+
+float: right;
+}
+
+
+.box1 {
+    background-color: white;
+    width: 220px;
+    height: 525px;
+    margin: auto;
+    position:relative
+}
+
+.greyshirt {
+    width: 100%;
+    position: absolute;
+    top: 0%;
+}
+
+.fnpants {
+    width: 90%;
+    margin-left: 10px;
+    position: absolute;
+    bottom: 0%;
+}
+
+.box2 {
+    background-color: rgb(255, 255, 255);
+    width: 220px;
+    height: 445px;
+    margin: auto;
+    margin-top: 8px;
+    position:relative
+}
+
+.shoes {
+    width: 100%;
+    position: absolute;
+    top: 0%;
+}
+
+.blackshirt {
+    width: 100%;
+    position: absolute;
+    bottom: 0%;
+}
+
+.box3 {
+    background-color: rgb(255, 255, 255);
+    width: 220px;
+    height: 445px;
+    margin: auto;
+    margin-top: 8px;
+    position:relative
+}
+
+.blackshorts {
+    width: 100%;
+    position: absolute;
+    top: 0%;
+}
+
+.sambas {
+    width: 100%;
+    position: absolute;
+    bottom: 0%;
+}
+
+
+.photobox {
+    background-color: gold;
+}
+
+.b1 {
+float: left;
+width: 33%;
+height: auto;
+}
+
+.b2 {
+float: left;
+width: 33%;
+height: auto;
+margin-left: 5px;
+}
+
+.b3 {
+    float: right;
+    width: 33%;
+    height: auto;
+}
+#titletext{
+    color: #ffffff;
+    text-shadow: 5px 5px black;
+}
+#desc{
+
+    color: rgb(186, 186, 186);
+}
